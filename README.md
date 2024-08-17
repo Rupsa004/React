@@ -1,2 +1,2 @@
 # React
-React series
+React series for learning purpose
